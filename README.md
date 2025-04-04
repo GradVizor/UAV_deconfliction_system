@@ -7,7 +7,7 @@ The system utilizes conflict resolution algorithms to identify and resolve poten
 This solution is ideal for applications involving high drone density, such as urban mobility, surveillance, and automated logistics.
 
 
-![Trajectory Simulation](UAV_deconfliction_system/resources/traj_sim.gif)
+![Trajectory Simulation](resources/traj_sim.gif)
 
 
 ## Table of Contents
